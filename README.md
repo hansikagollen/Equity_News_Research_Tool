@@ -134,6 +134,12 @@ Backend:
 - "What does the BBC article discuss?"
 
 
+
+## 🎯 Why This Project?
+Manual analysis of financial reports, datasets, and news articles is slow and inefficient.
+This project demonstrates how modern vector search and real-time ingestion can be used to
+build scalable research tools for analysts, students, and developers.
+
 ## 🖥️ Running the Backend (FastAPI)
 
 ### Setup
@@ -157,5 +163,8 @@ npm run dev
 
 Frontend runs on:
 http://localhost:5173
+
+
+
 
 
