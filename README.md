@@ -1,36 +1,3 @@
-# 📊 Equity News Research Assistant
-
-A **real-time document and news research platform** that enables semantic search and analysis over
-PDFs, CSV datasets, text files, and live news articles using **vector search**.
-
-The application is designed for **financial research, data exploration, and news analysis**, and demonstrates how modern retrieval systems used in LLM pipelines are built in practice.
-
----
-
----
-
-## 🚀 What This Project Does
-
-- Ingests **PDF, CSV, TXT files**, and **live news URLs**
-- Converts documents into **semantic embeddings**
-- Indexes data using **FAISS vector search**
-- Allows users to **ask natural language questions**
-- Displays **real-time ingestion progress** via WebSockets
-- Provides fast, accurate **semantic search results**
-
----
-
-## 🧠 Why This Project Matters
-
-Analyzing large datasets and financial news manually is slow and inefficient.
-This project shows how **vector databases and semantic search** can be used to build scalable,
-real-time research tools similar to those used in modern AI-powered products.
-
----
-
-## 🏗️ High-Level Architecture
-
-**Flow:**
 
 # 📊 Equity News Research Assistant
 
@@ -132,6 +99,7 @@ Frontend
 cd frontend
 npm install
 npm run dev
+
 
 
 
